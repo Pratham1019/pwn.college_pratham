@@ -18,6 +18,8 @@ Please use the `cd` utility to change directory appropriately.
 Then, I used the change directory (cd) command to change my current directory to /proc/138 as mentioned and later executed /challenge/run which successfully returned the flag. 
 
 ```bash
+cd /proc/138
+/challenge/run
 Correct!!!
 /challenge/run is an absolute path, invoked from the right directory!
 Here is your flag:
