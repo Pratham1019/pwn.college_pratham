@@ -6,7 +6,7 @@ The challenge asks to open the terminal and execute the /challenge/run program u
 ### Solve
 **Flag:** `pwn.college{s11Qa9agRMWiEA8k-JPqqnj_vU_.QX5QTN0wCM0kDMzEzW}`
 
-To solve this challenge, I first navigated to the root directory '/' since the current working directory needed to be set to the root. From there I executed the program 'challenge/run' instead of '/challenge/run' as the task required the usage of relative paths.
+To solve this challenge, I first navigated to the root directory '/' since the current working directory needed to be set to the root. From there I executed the program 'challenge/run' instead of '/challenge/run' as the task required the usage of relative paths which successfully returned the flag.
 
 ```bash
 cd /
