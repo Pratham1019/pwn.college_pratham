@@ -1,7 +1,7 @@
 # Pondering Paths
 
 ## Home Sweet Home
-The challenge asks to run '/challenge/run' with an argument that is an absolute path inside the home directory aand is 3 or less characters long.
+The challenge asks to run '/challenge/run' with an argument that is an absolute path inside the home directory and is 3 or less characters long.
 
 ### Solve
 **Flag:** `pwn.college{InFvnlAclq18H-nxAzyUy_Rq2OP.QXzMDO0wCM0kDMzEzW}`
