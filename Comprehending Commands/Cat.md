@@ -14,4 +14,8 @@ pwn.college{QlKtHqEnF0qhN7zRrdxVbck3feq.QXxcTN0wCM0kDMzEzW}
 ```
 
 ### New Learnings
-From this challenge I learnt about the cat (concatenate) command and how its used to read out the files onto the terminal.
+From this challenge I learnt about the cat (concatenate) command and how its used to read out the files onto the terminal. The cat command works as follows 
+
+```bash
+cat <path of the file to be read>
+```
